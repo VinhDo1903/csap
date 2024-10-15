@@ -1,0 +1,21 @@
+c:\users\admin\documents\visual studio 2012\Projects\btdc10(dịch vụ khám chữa răng)\btdc10(dịch vụ khám chữa răng)\bin\Debug\btdc10(dịch vụ khám chữa răng).exe.config
+c:\users\admin\documents\visual studio 2012\Projects\btdc10(dịch vụ khám chữa răng)\btdc10(dịch vụ khám chữa răng)\obj\Debug\btdc10(dịch vụ khám chữa răng).csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2012\Projects\btdc10(dịch vụ khám chữa răng)\btdc10(dịch vụ khám chữa răng)\obj\Debug\btdc10_dịch_vụ_khám_chữa_răng_.Form1.resources
+c:\users\admin\documents\visual studio 2012\Projects\btdc10(dịch vụ khám chữa răng)\btdc10(dịch vụ khám chữa răng)\obj\Debug\btdc10_dịch_vụ_khám_chữa_răng_.Properties.Resources.resources
+c:\users\admin\documents\visual studio 2012\Projects\btdc10(dịch vụ khám chữa răng)\btdc10(dịch vụ khám chữa răng)\obj\Debug\btdc10(dịch vụ khám chữa răng).csproj.GenerateResource.Cache
+c:\users\admin\documents\visual studio 2012\Projects\btdc10(dịch vụ khám chữa răng)\btdc10(dịch vụ khám chữa răng)\bin\Debug\btdc10(dịch vụ khám chữa răng).exe
+c:\users\admin\documents\visual studio 2012\Projects\btdc10(dịch vụ khám chữa răng)\btdc10(dịch vụ khám chữa răng)\bin\Debug\btdc10(dịch vụ khám chữa răng).pdb
+c:\users\admin\documents\visual studio 2012\Projects\btdc10(dịch vụ khám chữa răng)\btdc10(dịch vụ khám chữa răng)\obj\Debug\btdc10(dịch vụ khám chữa răng).exe
+c:\users\admin\documents\visual studio 2012\Projects\btdc10(dịch vụ khám chữa răng)\btdc10(dịch vụ khám chữa răng)\obj\Debug\btdc10(dịch vụ khám chữa răng).pdb
+C:\Users\Admin\Downloads\Projects\btdc10(dịch vụ khám chữa răng)\btdc10(dịch vụ khám chữa răng)\bin\Debug\btdc10(dịch vụ khám chữa răng).exe.config
+C:\Users\Admin\Downloads\Projects\btdc10(dịch vụ khám chữa răng)\btdc10(dịch vụ khám chữa răng)\obj\Debug\btdc10(dịch vụ khám chữa răng).exe
+C:\Users\Admin\Downloads\Projects\btdc10(dịch vụ khám chữa răng)\btdc10(dịch vụ khám chữa răng)\obj\Debug\btdc10(dịch vụ khám chữa răng).pdb
+C:\Users\Admin\Desktop\Projects\btdc10(dịch vụ khám chữa răng)\btdc10(dịch vụ khám chữa răng)\bin\Debug\btdc10(dịch vụ khám chữa răng).exe.config
+C:\Users\Admin\Desktop\Projects\btdc10(dịch vụ khám chữa răng)\btdc10(dịch vụ khám chữa răng)\obj\Debug\btdc10(dịch vụ khám chữa răng).exe
+C:\Users\Admin\Desktop\Projects\btdc10(dịch vụ khám chữa răng)\btdc10(dịch vụ khám chữa răng)\obj\Debug\btdc10(dịch vụ khám chữa răng).pdb
+C:\Users\Admin\Desktop\Projects\btdc10(dịch vụ khám chữa răng)\btdc10(dịch vụ khám chữa răng)\bin\Debug\btdc10(dịch vụ khám chữa răng).exe
+C:\Users\Admin\Desktop\Projects\btdc10(dịch vụ khám chữa răng)\btdc10(dịch vụ khám chữa răng)\bin\Debug\btdc10(dịch vụ khám chữa răng).pdb
+C:\Users\Admin\Desktop\Projects\btdc10(dịch vụ khám chữa răng)\btdc10(dịch vụ khám chữa răng)\obj\Debug\btdc10(dịch vụ khám chữa răng).csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\Projects\btdc10(dịch vụ khám chữa răng)\btdc10(dịch vụ khám chữa răng)\obj\Debug\btdc10_dịch_vụ_khám_chữa_răng_.Form1.resources
+C:\Users\Admin\Desktop\Projects\btdc10(dịch vụ khám chữa răng)\btdc10(dịch vụ khám chữa răng)\obj\Debug\btdc10_dịch_vụ_khám_chữa_răng_.Properties.Resources.resources
+C:\Users\Admin\Desktop\Projects\btdc10(dịch vụ khám chữa răng)\btdc10(dịch vụ khám chữa răng)\obj\Debug\btdc10(dịch vụ khám chữa răng).csproj.GenerateResource.Cache
